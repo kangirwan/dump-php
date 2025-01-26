@@ -1,0 +1,14 @@
+{
+    "name": "irwan/dump-php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "irwan"
+        }
+    ],
+    "require": {
+        "ifsnop/mysqldump-php": "^2.12",
+        "aws/aws-sdk-php": "^3.338",
+        "phpdevcommunity/php-dotenv": "^3.0"
+    }
+}
